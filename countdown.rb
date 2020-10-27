@@ -3,7 +3,7 @@
 def countdown(number)
  x = 1
 while x < 10
-  puts "#{x} is less than 10"
+  puts "#{x} SECOND(S)!"
   x += 1
   end
 end
