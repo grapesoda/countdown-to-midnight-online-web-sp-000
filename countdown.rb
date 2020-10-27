@@ -9,4 +9,7 @@ while x > 0
   puts "HAPPY NEW YEAR!"
 end
  
- def countdown_with_sleep
+ def countdown_with_sleep(x)
+   sleep(10)
+ end
+ end
