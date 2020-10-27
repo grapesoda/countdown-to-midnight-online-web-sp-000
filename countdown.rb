@@ -9,3 +9,4 @@ while x > 0
   puts "HAPPY NEW YEAR!"
 end
  
+ def 
